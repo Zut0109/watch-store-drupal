@@ -30,7 +30,8 @@
             "oomphinc/composer-installers-extender": true,
             "cweagans/composer-patches": true,
             "drupal/core-composer-scaffold": true,
-            "composer/installers": false
+            "composer/installers": false,
+            "dealerdirect/phpcodesniffer-composer-installer": true
         }
     },
     "require": {
